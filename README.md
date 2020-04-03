@@ -1,2 +1,2 @@
 # Calendar
-Calendar webapp created using Python by PyLearn Discord Team.
+Calendar Web App created using Python by PyLearn Discord Team.
