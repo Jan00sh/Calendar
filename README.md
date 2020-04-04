@@ -1,6 +1,6 @@
 # Calendar
 
-Calendar Web App created using Python by PyLearn Discord Team.
+Calendar Web App created using Python by PyLearn Discord Team. You can use the app using following [link](https://pylearn-calendar.herokuapp.com/).
 
 ## Requirements
 
