@@ -4,7 +4,7 @@ Calendar Web App created using Python by PyLearn Discord Team.
 
 ## Requirements
 
-Git
+Git   
 Python 3.6+
 
 ### Installation
